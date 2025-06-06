@@ -1,4 +1,4 @@
-module sigs.k8s.io/external-dns
+module github.com/rrk-dev/external-dns
 
 go 1.24.2
 
